@@ -1,0 +1,17 @@
+{
+  "name": "Maze Dungeon Labyrinth",
+  "short_name": "MazeDungeon",
+  "description": "A challenging 3D maze adventure game. Find your way out of the dungeon!",
+  "start_url": "https://bablo01.github.io/Maze-Dungeon-Labyrinth-/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/5261/5261729.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
