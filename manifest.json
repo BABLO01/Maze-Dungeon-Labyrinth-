@@ -1,7 +1,7 @@
 {
   "name": "Maze Dungeon Labyrinth",
   "short_name": "MazeDungeon",
-  "description": "A challenging 3D maze adventure game. Find your way out of the dungeon!",
+  "description": "A Thrilling 3D Maze adventure where you navigate through a mysterious dungeon, solve puzzles, and find your way out!",
   "start_url": "https://bablo01.github.io/Maze-Dungeon-Labyrinth-/",
   "display": "standalone",
   "background_color": "#000000",
@@ -12,6 +12,8 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "share_target": {
+    "method": "GET"
+  }
 }
-
